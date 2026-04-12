@@ -4,6 +4,7 @@ __pycache__/
 .venv/
 venv/
 .ipynb_checkpoints/
+__MACOSX/
 
 # Local editor and agent folders
 .claude/
