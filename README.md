@@ -49,7 +49,8 @@ Prosperity/
 - `My_Bots/temp_bot.py`: current scratch bot.
 - `My_Bots/my_first_bot.py`: cleaner starting point.
 - `My_Bots/archive/`: older snapshots moved out of the way but still kept locally.
-- `Lessons/Round1/Lesson1_Resin.py`: commented teaching example.
+- `Lessons/README.md`: catalog of all lesson bots added by round.
+- `Lessons/Round1/Lesson1_Resin.py`: original commented teaching example.
 - `Research/Tutorial_Analysis.ipynb`: notebook exploration.
 
 ## Local-Only Assets
@@ -68,8 +69,14 @@ That keeps the GitHub version lightweight while still letting you keep large loc
 - `BACKTEST_GUIDE.md`: install and run commands.
 - `Docs/PROJECT_STRUCTURE.md`: what belongs where.
 - `Docs/IMC_PROSPERITY_WEB_NOTES.md`: notes gathered from web research on April 12, 2026.
+- `Docs/LESSON_CATALOG.md`: index of the round-by-round learning guides.
 - `Docs/General_EN.md` / `Docs/General_VI.md`: longer learning notes.
-- `Docs/Round1_Resin_EN.md` / `Docs/Round1_Resin_VI.md`: round 1 lesson material.
+- `Docs/Round1_Resin_EN.md` / `Docs/Round1_Resin_VI.md`: round 1 Resin material.
+- `Docs/Round1_Kelp_EN.md` / `Docs/Round1_SquidInk_EN.md`: extra Round 1 product guides.
+- `Docs/Round2_ETF_EN.md` / `Docs/Round2_Constituents_EN.md`: ETF and constituent guides.
+- `Docs/Round3_Options_EN.md`: options round guide.
+- `Docs/Round4_Macarons_EN.md`: conversions / location arbitrage guide.
+- `Docs/Round5_TraderIds_EN.md`: trader-ID / Olivia guide.
 
 ## Notes From Web Research
 
