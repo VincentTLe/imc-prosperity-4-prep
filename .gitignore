@@ -1,18 +1,27 @@
-# PDFs (large files)
-*.pdf
-
-# Reference repos (cloned from GitHub - too large to push)
-references/p1-*/
-references/p2-*/
-references/p3-*/
-
-# Python cache
+# Python cache and virtual environments
 __pycache__/
-*.pyc
-*.pyo
-
-# Temp files
-tmpclaude-*
-
-# Jupyter checkpoints
+*.py[cod]
+.venv/
+venv/
 .ipynb_checkpoints/
+__MACOSX/
+
+# Local editor and agent folders
+.claude/
+
+# Generated backtest outputs
+backtest_results.json
+latest_run.log
+log.txt
+out_log.txt
+
+# Downloaded or exported local data
+data/*.zip
+data/[0-9]*/
+
+# Large third-party references kept local
+Jmerle-Backtester/
+Reference/
+
+# Local scratch helpers
+fix.py
